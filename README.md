@@ -2,7 +2,7 @@
 - 👀 I’m interested in Machine Learning, Artificial Intelligence and GenAI
 - 🌱 I’m currently learning GenAI and LLM
 - 💞️ I’m looking to collaborate on LLM
-- 📫 How to reach me : santiagoyoung1930@gmail.com
+- 📫 How to reach me : https://www.linkedin.com/in/farjana-kabir-samanta-2a8802321/
 - ⚡ Fun fact: Nothing
 
 <!---
